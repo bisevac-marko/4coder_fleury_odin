@@ -2,7 +2,8 @@
 
 ### Integration
 
-Drop files in 4coder_fluery custom layer and make sure to run **build_lexers.bat** to build the odin lexer.
+Drop files in 4coder_fluery custom layer and make sure to run **build_lexers.bat** to build the odin lexer. For the syntax highlighting to work
+properly make sure to add missing fields from **theme-fleury.4coder** to your theme.
 
 ### Current state
 
